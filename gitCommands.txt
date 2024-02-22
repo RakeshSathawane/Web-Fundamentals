@@ -4,3 +4,5 @@ git mkdir
 git rmdir
 
 git status
+git add . / git add -A 
+git commit -m "message to be given for new commit"
